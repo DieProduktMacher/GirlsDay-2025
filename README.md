@@ -1,2 +1,2 @@
-# GirlsdayDay-2025
+# GirlsDay-2024
 This is a sample repository for the GirlsDay 2025
